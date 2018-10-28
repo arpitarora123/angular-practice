@@ -1,0 +1,20 @@
+div {
+  color: red;
+}
+
+
+.div {
+  color: blue;
+}
+
+
+.alert {
+  color: red;
+  font-style: italic;
+  font-size: 8px;
+}
+ 
+
+#div {
+  color: pink;
+}
